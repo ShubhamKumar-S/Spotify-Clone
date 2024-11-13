@@ -23,7 +23,7 @@ https://spotify-clone-webb.vercel.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/Chirag047/Spotify-Clone.git
+  (https://github.com/ShubhamKumar-S/Spotify-Clone)
 ```
 Go to the project directory
 
